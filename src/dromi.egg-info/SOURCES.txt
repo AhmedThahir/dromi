@@ -1,0 +1,14 @@
+LICENSE.md
+README.md
+setup.cfg
+setup.py
+src/dromi/__init__.py
+src/dromi/mutual_information.py
+src/dromi/similarities.py
+src/dromi/utils.py
+src/dromi.egg-info/PKG-INFO
+src/dromi.egg-info/SOURCES.txt
+src/dromi.egg-info/dependency_links.txt
+src/dromi.egg-info/not-zip-safe
+src/dromi.egg-info/requires.txt
+src/dromi.egg-info/top_level.txt

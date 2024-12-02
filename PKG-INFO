@@ -1,0 +1,48 @@
+Metadata-Version: 2.1
+Name: dromi
+Version: 0.0.17
+Summary: Dromi
+Home-page: https://github.com/LysSanzMoreta/Dromi
+Author: Lys Sanz Moreta
+Author-email: lys.sanz.moreta@outlook.com
+Project-URL: Changelog, https://github.com/LysSanzMoreta/dromi/blob/master/CHANGELOG.rst
+Project-URL: Issue Tracker, https://github.com/LysSanzMoreta/dromi/issues
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.7, <4
+Description-Content-Type: text/markdown
+License-File: LICENSE.md
+Requires-Dist: biopython>1.78
+Requires-Dist: pandas>1.5.2
+Requires-Dist: matplotlib>3.3.4
+Requires-Dist: dill>0.3.3
+Requires-Dist: seaborn>=0.11.2
+Requires-Dist: scipy>1.5.4
+Requires-Dist: scikit-learn>0.24.1
+
+
+Dromi: Python package for parallel computation of similarity measures among vector-encoded sequences
+
+- Installing:
+
+``
+pip install dromi
+``
+
+-Usage/Example: See ``Dromi_example.py``
+
+
+- Reference:
+
+```
+@article{sanz2023dromi,
+  title={Dromi: Python package for parallel computation of similarity measures among vector-encoded sequences},
+  author={Sanz Moreta, Lys},
+  journal={bioRxiv},
+  pages={2023--07},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
